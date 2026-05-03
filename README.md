@@ -2,10 +2,11 @@
 
 ## About Me
 
-I'm an aspiring AI/ML Engineer and Computer Science student at Iqra University, Karachi (2023–2027). I'm passionate about building intelligent systems — from NLP pipelines and recommendation engines to full-stack AI-powered applications. I hold an **Oracle Cloud Infrastructure AI Foundations Associate** certification (scored 100%) and am actively working on real-world ML projects.
+I'm an aspiring AI/ML Engineer and Computer Science student at Iqra University, Karachi (2023–2027). I'm passionate about building intelligent systems — from NLP pipelines and recommendation engines to full-stack AI-powered applications.  I am actively working on real-world ML projects.
 
-- 🌱 Exploring RAG pipelines, LLM integrations (Gemini API), and scalable ML deployment
+
 - 🎯 Career goal: AI/ML Engineer
+
 
 ---
 
@@ -34,20 +35,20 @@ I'm an aspiring AI/ML Engineer and Computer Science student at Iqra University, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
----
-
 
 ## 📊 GitHub Stats
 
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=hamzaihsan475&color=blue&style=flat&label=Profile+Views)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzaihsan475&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaihsan475&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-ihsann)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hamzaihsan729@gmail.com)
 
 😄 Happy Learning & Building!
