@@ -4,7 +4,6 @@
 
 I'm an aspiring AI/ML Engineer and Computer Science student at Iqra University, Karachi (2023–2027). I'm passionate about building intelligent systems — from NLP pipelines and recommendation engines to full-stack AI-powered applications.  I am actively working on real-world ML projects.
 
-
 - 🎯 Career goal: AI/ML Engineer
 
 
@@ -40,9 +39,7 @@ I'm an aspiring AI/ML Engineer and Computer Science student at Iqra University, 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hamzaihsan475&color=blue&style=flat&label=Profile+Views)
 
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzaihsan475&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaihsan475&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hamzaihsan475&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
