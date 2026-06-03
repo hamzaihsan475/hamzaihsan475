@@ -1,9 +1,12 @@
 # Hi there 👋 I am Hamza Ihsan
 
 ## About Me
-I'm an aspiring AI/ML Engineer and Computer Science student at Iqra University, Karachi (2023–2027). I'm passionate about building intelligent systems — from RAG pipelines and ML models to full-stack AI-powered applications. I am actively working on real-world ML projects.
+I'm an aspiring AI/ML Engineer and CS student at Iqra University, Karachi (2023–2027).  
+I build intelligent systems — RAG pipelines, ML models, and AI-powered full-stack apps.
 
 - 🎯 Career goal: AI/ML Engineer
+- 🌱 Currently exploring: LLMs, Retrieval-Augmented Generation, Computer Vision
+- 📍 Based in Karachi, Pakistan
 
 ---
 
@@ -33,11 +36,19 @@ I'm an aspiring AI/ML Engineer and Computer Science student at Iqra University, 
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Projects
 
-![Profile Views](https://komarev.com/ghpvc/?username=hamzaihsan475&color=blue&style=flat&label=Profile+Views)
+### 🤖 RAG-Based AI Agent
+An autonomous AI agent built with OpenAI, Pinecone, LangChain, and n8n. Focuses on retrieval quality and grounded responses over a custom knowledge base.  
+`Python` `LangChain` `OpenAI` `Pinecone` `n8n`
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaihsan475&layout=compact&theme=tokyonight&hide_border=true)
+### 🚗 Car Price Predictor
+End-to-end ML pipeline on CarDekho dataset — data cleaning, EDA, feature engineering, model training and evaluation.  
+`Python` `scikit-learn` `pandas` `NumPy`
+
+### 💬 SupportIQ — AI Customer Support Chatbot
+Intent classification with Logistic Regression + RAG pipeline using Gemini API and FAISS. Full-stack with FastAPI backend and React frontend.  
+`Python` `FastAPI` `React` `FAISS` `Gemini API` `SQLite`
 
 ---
 
