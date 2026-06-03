@@ -6,7 +6,7 @@ I build intelligent systems — RAG pipelines, ML models, and AI-powered full-st
 
 - 🎯 Career goal: AI/ML Engineer
 - 🌱 Currently exploring: LLMs, Retrieval-Augmented Generation, Computer Vision
-- 📍 Based in Karachi, Pakistan
+
 
 ---
 
