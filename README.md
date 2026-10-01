@@ -1,12 +1,11 @@
-# Hi there 👋 I am Hamza Ihsan
+# Hi, I'm Hamza Ihsan 👋
 
-## About Me
-I'm an aspiring AI/ML Engineer and CS student at Iqra University, Karachi (2023–2027).
-I build intelligent systems — RAG pipelines, ML models, and AI-powered full-stack apps.
+I'm learning by building AI projects: RAG chatbots, ML models, and automation workflows. I build scalable SaaS applications and modern web platforms.
 
-- 🎯 Career goal: AI/ML Engineer
-- 💼 Currently: AI Engineering Research Intern @ Alphatron Technologies
-- 🌱 Currently exploring: LangGraph, MCP (Model Context Protocol), Computer Vision
+## What I'm working on
+- 🔧 Learning LangGraph and MCP
+- 🤖 AI chatbots and automation workflows
+- 🧪 Building projects and writing down what breaks
 
 ---
 
@@ -29,7 +28,6 @@ I build intelligent systems — RAG pipelines, ML models, and AI-powered full-st
 
 **Backend / Frontend**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
