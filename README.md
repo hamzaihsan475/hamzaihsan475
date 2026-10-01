@@ -3,7 +3,7 @@
 I'm learning by building AI projects: RAG chatbots, ML models, and automation workflows. I build scalable SaaS applications and modern web platforms.
 
 ## What I'm working on
-- 🔧 Learning LangGraph and MCP
+- 🔧 Building agents with LangChain and MCP
 - 🤖 AI chatbots and automation workflows
 - 🧪 Building projects and writing down what breaks
 
