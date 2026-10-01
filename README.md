@@ -60,6 +60,7 @@ AI customer-support platform for real estate agencies, a grounded RAG pipeline (
 ### 💰 Moneyhabit — Expense Tracker
 Personal expense tracker with spending analysis and budget tracking. Built with Flask, SQLite, and vanilla JavaScript.
 `Python` `Flask` `SQLite` `JavaScript`
+
 ---
 
 ## 📫 Let's Connect
