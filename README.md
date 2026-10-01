@@ -54,9 +54,12 @@ An autonomous AI agent built with OpenAI, Pinecone, LangChain, and n8n. Focuses 
 `Python` `LangChain` `OpenAI` `Pinecone` `n8n`
 
 ### 💬 SupportIQ — AI Customer Support Chatbot
-AI customer-support platform for real estate agencies — a grounded RAG pipeline (FAISS + Gemini) for FAQ answers, a scikit-learn intent classifier, a hybrid ML price predictor, and automated lead capture / human-escalation via a stateful chatbot.
+AI customer-support platform for real estate agencies, a grounded RAG pipeline (FAISS + Gemini) for FAQ answers, a scikit-learn intent classifier, a hybrid ML price predictor, and automated lead capture / human-escalation via a stateful chatbot.
 `Python` `FastAPI` `FAISS` `Gemini API` `scikit-learn` `SQLite`
 
+### 💰 Moneyhabit — Expense Tracker
+Personal expense tracker with spending analysis and budget tracking. Built with Flask, SQLite, and vanilla JavaScript.
+`Python` `Flask` `SQLite` `JavaScript`
 ---
 
 ## 📫 Let's Connect
